@@ -2,4 +2,4 @@ cloud:
     config:
       server:
         git:
-          uri: https://github.com/Adword830/springcloud-config.git #GitHub上面的git仓库名字
+          uri: https://github.com/Adword830/springcloud-config.git99 #GitHub上面的git仓库名字
